@@ -1,6 +1,7 @@
-This tool aims to provide a quick solution to download one or more repositories from one or more organizations programmatically when your project involves accessing/modifying/scanning/analyzing multiple repositories.
-
 # A simple client for selective cloning of git repos 
+
+This tool aims to provide a quick solution to clone one or more repositories from one or more organizations programmatically when your project involves accessing/modifying/scanning/analyzing multiple repositories.
+
 Note: This has been tested/used with MacOS with python 2.7 for scanning orgs.
 
 ## Pre-requisities:
